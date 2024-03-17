@@ -1,7 +1,4 @@
-# Svitlana Orlova's Homepage
-
-
-## Additional Inforamtion and links
+## Additional Inforamtion
 
   * [Facebook](https://www.facebook.com/profile.php?id=61557383486160)
   * [Github](https://github.com/svitlana-orlova)
