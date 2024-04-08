@@ -3,6 +3,7 @@
 ## Certification
 
   * [English Language](english.md)
+  * [Front-End Development](frontend.md)
 
 ## Social Networks
 
