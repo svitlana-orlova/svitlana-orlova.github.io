@@ -1,5 +1,3 @@
-[![Reach GH TOP or DIE Trying](/pic/gh-try-ot-get-top.jpg)](/pic/gh-try-ot-get-top.jpg)
-
 ## Front-End Development Certification
 
 ## Legacy Front End
@@ -8,8 +6,9 @@
 
 [Verification](https://www.freecodecamp.org/certification/linuxenko/legacy-front-end)
 
-
 ## Showcase
 
- * https://codepen.io/linuxenko
+[![Reach GH TOP or DIE Trying](/pic/gh-try-ot-get-top.jpg)](/pic/gh-try-ot-get-top.jpg)
+
+ * [https://codepen.io/linuxenko](https://codepen.io/linuxenko)
 
