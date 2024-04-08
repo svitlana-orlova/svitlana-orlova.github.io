@@ -2,7 +2,7 @@
 
 ## Certification
 
-  * [DevOps](devops.md)
+  * [DevOps and Systems Administration](devops.md)
   * [English Language](english.md)
   * [Front-End Development](frontend.md)
 
