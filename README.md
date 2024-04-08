@@ -1,7 +1,11 @@
+## Svitlana's Orlova Profile Page
+
+## Certification
+
 ## Social Networks
 
   * [Facebook](https://www.facebook.com/svit.eagle/)
-  * [Github](https://github.com/svitlana-orlova)
+  * [![GitHub](https://github.com/favicon.ico)](https://github.com/svitlana-orlova) [GitHub](https://github.com/svitlana-orlova)
   * [Instagram](https://www.instagram.com/svit.eagle/)
   * [Linkedin](https://www.linkedin.com/in/svitlana-orlova)
   * [Reddit](https://www.reddit.com/user/svitlana-orlova/)
