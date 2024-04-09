@@ -1,15 +1,25 @@
 ## Profile
 
-### TOC
+#### TOC
 
   * [Certifications](#certifications)
   * [Social Networks](#social-networks)
 
 ## Certifications
 
+#### General
+
+  * [English Language](english.md)
+
+#### Safety
+
+  * [Medical Assisting Training](medassist.md)
+  * [Safety and Security](safety.md)
+
+#### Technology
+
   * [Back-End Development](backend.md)
   * [DevOps and Systems Administration](devops.md)
-  * [English Language](english.md)
   * [Front-End Development](frontend.md)
 
 ## Social Networks
