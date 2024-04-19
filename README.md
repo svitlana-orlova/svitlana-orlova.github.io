@@ -21,6 +21,7 @@
   * [Back-End Development](backend.md)
   * [DevOps and Systems Administration](devops.md)
   * [Front-End Development](frontend.md)
+  * [JavaScript Programming](javascript.md)
 
 ## Social Networks
 
