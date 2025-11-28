@@ -1,5 +1,3 @@
-## Profile
-
 #### TOC
 
   * [Certifications](#certifications)
