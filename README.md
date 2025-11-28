@@ -3,6 +3,7 @@
 #### TOC
 
   * [Certifications](#certifications)
+  * [Professional Profile](#professional-profile)
   * [Social Networks](#social-networks)
 
 ## Certifications
@@ -23,6 +24,13 @@
   * [DevOps and Systems Administration](devops.md)
   * [Front-End Development](frontend.md)
   * [JavaScript Programming](javascript.md)
+
+## Professional Profile
+
+#### Embedded | Linux Developer
+
+  * [Embedded | Linux Developer CV](/pdf/orlova.pdf)
+  * [Embedded | Linux Developer CV (Linkedin)](/pdf/in_orlova.pdf)
 
 ## Social Networks
 
