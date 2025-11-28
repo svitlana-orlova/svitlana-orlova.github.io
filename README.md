@@ -18,6 +18,7 @@
 
 #### Technology
 
+  * [Algorithms Certification](algorithms.md)
   * [Back-End Development](backend.md)
   * [DevOps and Systems Administration](devops.md)
   * [Front-End Development](frontend.md)
