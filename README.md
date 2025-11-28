@@ -27,10 +27,10 @@
 
 ## Professional Profile
 
-#### Embedded | Linux Developer
+#### Embedded `|` Linux Developer
 
-  * [Embedded | Linux Developer CV](/pdf/orlova.pdf)
-  * [Embedded | Linux Developer CV (Linkedin)](/pdf/in_orlova.pdf)
+  * [Embedded `|` Linux Developer CV](/pdf/orlova.pdf)
+  * [Embedded `|` Linux Developer CV (Linkedin)](/pdf/in_orlova.pdf)
 
 ## Social Networks
 
