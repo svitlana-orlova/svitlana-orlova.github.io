@@ -1,10 +1,10 @@
 #### TOC
 
-  * [Certifications](#certifications)
+  * [Certification](#certification)
   * [Professional Profile](#professional-profile)
   * [Social Networks](#social-networks)
 
-## Certifications
+## Certification
 
 #### General
 
